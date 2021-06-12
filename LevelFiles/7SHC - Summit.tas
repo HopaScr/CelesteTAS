@@ -134,7 +134,7 @@ read,7HC,7SHC2,lvl_b-02 (2)
   10,L,D
    6,L
 
-read,7S,7SHC1,lvl_c-06b
+read,7S,7SHC2,lvl_c-06b
 
 #lvl_c-06b (1)
   13,R,K
